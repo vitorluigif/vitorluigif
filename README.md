@@ -1,7 +1,5 @@
 ## Boas vindas ao meu perfil 😀
 
-Meu nome é Vítor Luigi , tenho 19 anos e sou apaixonado por tecnologia desde pequeno e desenvolvimento é minha nova paixão da adolescência. Estudo Desenvolvimento Web na Trybe, uma escola que ensina a programar, aprender e a trabalhar.
-
 ''A única maneira de fazer um excelente trabalho, é amar o que você faz'' - Steve Jobs
 <br>
 
